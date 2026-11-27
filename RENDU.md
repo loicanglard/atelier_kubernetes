@@ -80,8 +80,7 @@
 
 14. Bonus réalisés et remarques :
 
-    > Aucun bonus réalisé. L'ensemble des tests obligatoires du script de vérification a été validé.
-
+    > Aucun bonus réalisé. 
 ---
 
-**Score obtenu avec `./scripts/check.sh` :** 15 / 18 (15/15 hors bonus, l'exercice 3 n'étant pas vérifiable automatiquement).
+**Score obtenu avec `./scripts/check.sh` :** 15 / 18 
